@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <!-- LNMDATA
+         _lnm=Created by Little Navmap Version 2.4.5 (revision 0bde498) on 2020 08 27T23:50:19|
+         aircraftperffile=|
+         aircraftperfname=|
+         aircraftperftype=|
+         cycle=1801|
+         navdata=NAVIGRAPH|
+         simdata=FSX
+-->
+    <FlightPlan.FlightPlan>
+        <Title>LFCG to LFCB</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>6000</CruisingAlt>
+        <DepartureID>LFCG</DepartureID>
+        <DepartureLLA>N43° 0' 48.00",E1° 6' 5.36",+001368.00</DepartureLLA>
+        <DestinationID>LFCB</DestinationID>
+        <DestinationLLA>N42° 48' 0.00",E0° 36' 0.00",+002028.00</DestinationLLA>
+        <Descr>LFCG, LFCB</Descr>
+        <DeparturePosition>16</DeparturePosition>
+        <DepartureName>Antichan</DepartureName>
+        <DestinationName>Bagneres de Luchon</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LFCG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 0' 32.00",E1° 6' 16.00",+001368.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFCG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stage8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 12' 13.45",E1° 5' 19.89",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 10' 25.99",E0° 58' 41.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 4' 56.30",E0° 57' 6.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 5' 3.52",E0° 53' 49.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 3' 51.74",E0° 50' 35.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 2' 5.16",E0° 49' 43.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 0' 59.20",E0° 48' 1.83",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 58' 53.11",E0° 47' 17.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 56' 55.07",E0° 48' 55.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 55' 15.08",E0° 48' 16.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 55' 9.21",E0° 45' 42.48",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mente">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 54' 50.87",E0° 45' 7.87",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 55' 19.83",E0° 43' 14.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 54' 37.52",E0° 42' 4.95",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 55' 1.52",E0° 40' 53.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 54' 52.01",E0° 38' 51.52",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 58' 8.79",E0° 37' 42.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 57' 47.09",E0° 35' 26.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 57' 26.74",E0° 34' 49.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 57' 29.68",E0° 33' 39.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 57' 3.45",E0° 31' 49.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 55' 55.82",E0° 30' 34.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 54' 33.68",E0° 30' 54.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Bales">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 52' 28.49",E0° 30' 5.62",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP25">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 52' 2.67",E0° 29' 37.50",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP26">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 51' 27.79",E0° 30' 16.43",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP27">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 50' 8.06",E0° 33' 0.82",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP28">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 49' 23.18",E0° 32' 58.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP29">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 48' 19.26",E0° 33' 35.42",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP30">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 48' 28.78",E0° 28' 58.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Peyresourd">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 48' 7.93",E0° 27' 45.49",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 48' 9.29",E0° 25' 27.07",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP33">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 49' 20.69",E0° 24' 58.79",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EndStg8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 47' 52.22",E0° 24' 30.13",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFCB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 48' 0.00",E0° 36' 0.00",+002028.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFCB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

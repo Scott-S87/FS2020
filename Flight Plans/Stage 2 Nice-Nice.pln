@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <!-- LNMDATA
+         _lnm=Created by Little Navmap Version 2.4.5 (revision 0bde498) on 2020 08 25T22:39:38|
+         aircraftperffile=|
+         aircraftperfname=|
+         aircraftperftype=|
+         cycle=1801|
+         navdata=NAVIGRAPH|
+         simdata=FSX
+-->
+    <FlightPlan.FlightPlan>
+        <Title>LFMN to LFMN</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>5500</CruisingAlt>
+        <DepartureID>LFMN</DepartureID>
+        <DepartureLLA>N43° 39' 25.89",E7° 12' 16.34",+000012.00</DepartureLLA>
+        <DestinationID>LFMN</DestinationID>
+        <DestinationLLA>N43° 39' 55.01",E7° 12' 54.00",+000012.00</DestinationLLA>
+        <Descr>LFMN, LFMN</Descr>
+        <DeparturePosition>PARKING 6</DeparturePosition>
+        <DepartureName>Nice/Cote d'Azur</DepartureName>
+        <DestinationName>Nice/Cote d'Azur</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LFMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 39' 55.01",E7° 12' 54.00",+000012.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 40' 12.05",E7° 11' 50.27",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 44' 33.28",E7° 11' 2.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 47' 2.35",E7° 13' 5.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 49' 10.79",E7° 11' 14.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 52' 17.09",E7° 11' 50.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 54' 38.72",E7° 11' 11.02",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 56' 17.98",E7° 10' 9.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 59' 6.13",E7° 8' 13.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 2' 13.24",E7° 7' 47.86",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 2' 48.78",E7° 7' 47.22",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 3' 12.32",E7° 7' 33.32",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 3' 40.18",E7° 8' 16.27",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 4' 14.70",E7° 9' 38.60",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 3' 59.17",E7° 11' 11.91",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 4' 4.72",E7° 12' 15.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 4' 21.15",E7° 12' 47.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LaColmiane">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 4' 14.32",E7° 13' 27.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 4' 32.69",E7° 14' 16.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 5' 25.07",E7° 15' 6.75",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 4' 11.82",E7° 15' 15.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 2' 30.11",E7° 17' 4.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 1' 31.91",E7° 18' 35.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 59' 49.69",E7° 18' 54.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 59' 20.79",E7° 19' 53.80",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 58' 36.78",E7° 22' 15.93",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP25">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 58' 46.56",E7° 23' 7.19",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Turini">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 58' 38.63",E7° 23' 30.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP26">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 57' 21.15",E7° 22' 14.41",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP27">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 54' 52.96",E7° 21' 12.92",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP28">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 53' 1.64",E7° 21' 37.89",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP29">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 51' 34.33",E7° 20' 51.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP30">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 50' 12.31",E7° 21' 21.51",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP31">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 48' 27.98",E7° 21' 25.53",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 46' 52.07",E7° 20' 13.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP33">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 42' 51.46",E7° 16' 52.44",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Eze">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 44' 7.38",E7° 21' 13.23",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP34">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 43' 44.83",E7° 22' 6.22",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 39' 55.01",E7° 12' 54.00",+000012.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
