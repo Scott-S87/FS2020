@@ -10,5 +10,5 @@ For your convenience I have also attempted to provide JPGs for each stage map, a
 
 Comment back if any questions! 
 
-Thanks,
+Thank you,
 Scott
