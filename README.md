@@ -6,7 +6,7 @@ Feel free to choose whichever aircraft you like for these routes. However, to ge
 
 Right-click to download any stage .pln file (or the ZIP file containing all) to your PC, then load into the FS2020 flight plan. Each route starts and ends at an airport closest to the start and end of each stage. This is the only way I can generate each end-to-end flight plan. Based on average airspeeds of 70 to 90 knots, most routes can be done within an hour. Maybe a bit more or less depending on how far away an airport is from the start or end of each stage, or if you take extended pauses to drone around the countryside. If you fly the Cub, then you might be able to just land anywhere you want after reaching the end of the stage (like a flat riverbank or field), but I have not tried this myself.  
 
-For visual reference, there are picture files for each stage map, as well as profiles showing elevation changes. But you will also find the route appears in the Visual Map display in FS2020. 
+For visual reference, there are picture files for each stage map, as well as profiles showing elevation changes. You will also find that the full route with each waypoint appears in the Visual Map display in FS2020. 
 
 Comment back if any questions! 
 
