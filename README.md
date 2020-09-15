@@ -6,7 +6,7 @@ It is recommended to use a single prop plane such as the Cub or Cessna, as some 
 
 Right-click to download any stage .pln file (or the ZIP file containing all) to your PC, then load into the FS2020 flight plan. Each route starts and ends at an airport closest to the start and end of each stage. Based on average airspeeds of 70 to 90 knots, most routes can be done within an hour. Maybe a bit more or less depending on how far away an airport is from the start or end of each stage, or if you take extended pauses to drone around the countryside. If you fly the Cub, then you might be able to just land anywhere you want after reaching the end of the stage (like a flat riverbank or field).  
 
-I have also created a monster 1675 nm flight plan, that starts in Niece and ends in Paris on the Champs-Elysees. It does not follow the route of each stage, but rather hits the start and end points of each stage. I think FS2020 allows you to save flights in progress as a .flt file. So completing the full route can probably be done over the course of several sessions.  
+I have also created a monster 1675 nm flight plan, that starts in Nice, and ends in Paris on the Champs-Elysees. It does not follow the route of each stage, but rather hits the start and end points of each stage. I think FS2020 allows you to save flights in progress as a .flt file. So completing the full route can probably be done over the course of several sessions.  
 
 There are maps of each stage, as well as profiles showing elevation changes. All waypoints should appear on the Visual Map display in FS2020. 
 
