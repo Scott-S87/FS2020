@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <!-- LNMDATA
+         _lnm=Created by Little Navmap Version 2.4.5 (revision 0bde498) on 2020 09 12T20:42:20|
+         aircraftperffile=|
+         aircraftperfname=|
+         aircraftperftype=|
+         cycle=1801|
+         navdata=NAVIGRAPH|
+         simdata=FSX
+-->
+    <FlightPlan.FlightPlan>
+        <Title>LFLG to LFLJ</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>8500</CruisingAlt>
+        <DepartureID>LFLG</DepartureID>
+        <DepartureLLA>N45° 12' 58.60",E5° 50' 45.32",+000722.00</DepartureLLA>
+        <DestinationID>LFLJ</DestinationID>
+        <DestinationLLA>N45° 23' 54.00",E6° 37' 37.80",+006420.00</DestinationLLA>
+        <Descr>LFLG, LFLJ</Descr>
+        <DeparturePosition>04</DeparturePosition>
+        <DepartureName>Le Versoud</DepartureName>
+        <DestinationName>Courchevel</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LFLG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 13' 9.00",E5° 50' 59.00",+000722.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFLG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stg17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 10' 54.68",E5° 44' 2.91",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 19' 22.60",E5° 56' 0.38",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 18' 30.46",E5° 57' 29.37",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 21' 52.01",E6° 0' 15.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 22' 27.61",E6° 3' 25.95",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 25' 4.28",E6° 5' 32.63",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 26' 45.75",E6° 5' 43.76",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 31' 51.62",E6° 12' 5.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 33' 3.68",E6° 15' 9.52",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 33' 13.85",E6° 17' 28.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 32' 26.24",E6° 18' 41.49",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 30' 48.83",E6° 18' 51.06",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 27' 50.33",E6° 17' 25.17",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 26' 4.12",E6° 17' 1.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 23' 25.78",E6° 16' 30.78",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 22' 0.27",E6° 17' 14.66",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 21' 54.62",E6° 19' 5.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 24' 50.39",E6° 21' 21.85",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Madeleine">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 26' 5.65",E6° 22' 31.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 27' 11.76",E6° 23' 49.86",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 28' 5.95",E6° 24' 9.32",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 28' 29.13",E6° 25' 2.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 31' 42.53",E6° 27' 48.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP25">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 32' 58.49",E6° 27' 38.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP26">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 30' 56.73",E6° 29' 9.82",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP27">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 29' 43.44",E6° 31' 1.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP28">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 27' 52.50",E6° 31' 54.20",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP30">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 27' 9.81",E6° 33' 49.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP31">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 24' 37.81",E6° 33' 22.57",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 23' 58.00",E6° 33' 55.17",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP33">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 23' 20.36",E6° 35' 21.84",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP34">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 23' 57.25",E6° 35' 57.99",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EndStg17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 24' 27.42",E6° 36' 9.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFLJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 54.00",E6° 37' 37.80",+006420.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFLJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

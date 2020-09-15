@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <!-- LNMDATA
+         _lnm=Created by Little Navmap Version 2.4.5 (revision 0bde498) on 2020 09 13T15:23:11|
+         aircraftperffile=|
+         aircraftperfname=|
+         aircraftperftype=|
+         cycle=1801|
+         navdata=NAVIGRAPH|
+         simdata=FSX
+-->
+    <FlightPlan.FlightPlan>
+        <Title>LFQW to LFGG</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>3500</CruisingAlt>
+        <DepartureID>LFQW</DepartureID>
+        <DepartureLLA>N47° 38' 17.69",E6° 11' 46.25",+001249.00</DepartureLLA>
+        <DestinationID>LFGG</DestinationID>
+        <DestinationLLA>N47° 42' 8.00",E6° 49' 57.00",+001368.00</DestinationLLA>
+        <Descr>LFQW, LFGG</Descr>
+        <DeparturePosition>08</DeparturePosition>
+        <DepartureName>Frotey</DepartureName>
+        <DestinationName>Chaux</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LFQW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 38' 22.01",E6° 12' 19.00",+001249.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFQW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stg20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 41' 3.85",E6° 29' 45.25",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 43' 19.21",E6° 31' 49.16",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 44' 56.88",E6° 33' 44.10",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 45' 44.66",E6° 36' 30.96",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 45' 25.97",E6° 40' 6.63",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 45' 53.81",E6° 41' 5.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 45' 30.54",E6° 42' 44.22",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 45' 1.04",E6° 43' 50.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 46' 12.50",E6° 44' 41.02",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 46' 36.58",E6° 45' 39.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EndStg20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 46' 20.90",E6° 46' 42.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFGG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 42' 8.00",E6° 49' 57.00",+001368.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFGG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

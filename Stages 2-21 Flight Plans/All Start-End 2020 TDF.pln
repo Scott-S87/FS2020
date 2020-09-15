@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <!-- LNMDATA
+         _lnm=Created by Little Navmap Version 2.4.5 (revision 0bde498) on 2020 09 13T18:20:35|
+         aircraftperffile=|
+         aircraftperfname=|
+         aircraftperftype=|
+         cycle=1801|
+         navdata=NAVIGRAPH|
+         simdata=FSX
+-->
+    <FlightPlan.FlightPlan>
+        <Title>LFMN to LFPG</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>1500</CruisingAlt>
+        <DepartureID>LFMN</DepartureID>
+        <DepartureLLA>N43° 38' 49.38",E7° 12' 10.50",+000012.00</DepartureLLA>
+        <DestinationID>LFPG</DestinationID>
+        <DestinationLLA>N49° 0' 35.01",E2° 32' 52.00",+000392.00</DestinationLLA>
+        <Descr>LFMN, LFPG</Descr>
+        <DeparturePosition>04R</DeparturePosition>
+        <DepartureName>Nice/Cote d'Azur</DepartureName>
+        <DestinationName>Charles-de-Gaulle</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LFMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 39' 55.01",E7° 12' 54.00",+000012.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sisteron">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 11' 44.02",E5° 56' 44.08",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Merlette">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 41' 49.58",E6° 19' 23.95",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Gap">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 33' 43.56",E6° 4' 53.37",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Privas">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 44' 2.58",E4° 35' 52.78",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Le Teil">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 32' 43.67",E4° 40' 50.64",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mt Aigoual">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 7' 15.68",E3° 34' 53.71",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Millau">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 6' 9.46",E3° 4' 50.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lavaur">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 41' 57.85",E1° 48' 29.81",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cazeres">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 12' 20.89",E1° 5' 6.26",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Loudenviel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 47' 46.62",E0° 24' 32.65",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pau">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 17' 44.52",W0° 22' 20.40",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Laruns">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 59' 15.26",W0° 25' 33.21",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Oleron">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 53' 6.82",W1° 11' 39.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Re">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 12' 19.79",W1° 22' 9.63",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ChatPlage">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 4' 36.92",W1° 5' 21.09",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Poiters">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 53.47",E0° 20' 39.67",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Chauvigny">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 34' 5.04",E0° 38' 30.01",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sarran">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 24' 35.20",E1° 56' 17.01",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ChatelGuyo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 55' 11.54",E3° 3' 25.01",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Puy Mary">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 6' 50.82",E2° 40' 18.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Ferrand">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 46' 34.11",E3° 4' 55.34",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lyon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 44' 55.83",E4° 49' 42.68",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Colombier">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 54' 12.42",E5° 45' 39.39",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="DuPin">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 33' 53.67",E5° 26' 35.82",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="DeLans">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 2' 45.74",E5° 33' 30.56",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Grenoble">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 11' 1.21",E5° 44' 7.01",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="La Loze">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 24' 25.18",E6° 36' 8.35",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Meribel">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 24' 10.04",E6° 33' 50.54",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="La Roche">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 4' 35.21",E6° 18' 17.54",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EnBresse">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 12' 16.37",E5° 13' 15.61",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Champagnol">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 43' 56.39",E5° 55' 16.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lure">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 41' 13.63",E6° 29' 45.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="La Planche">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 46' 31.38",E6° 46' 44.29",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LaJolie">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 59' 18.79",E1° 42' 47.90",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ChampsElys">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 52' 4.15",E2° 18' 50.14",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 0' 35.01",E2° 32' 52.00",+000392.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
